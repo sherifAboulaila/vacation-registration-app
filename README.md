@@ -67,7 +67,22 @@ Vacation Registration App is an Android application designed to help users manag
 
 - Android Studio (Flamingo or newer)  
 - JDK 11+  
-- Android SDK (API 21+)  
+- Android SDK (API 21+)
+  ## 📞 contact - التواصل 
+
+**Shrief Aboulailah** (شريف سعيد ابوليلة)
+
+<p align="center">
+  <a href="https://github.com/sherifAboulaila">
+    <img src="https://img.shields.io/badge/GitHub-@sherifAboulaila-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:shriefaboulailah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shriefaboulailah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.shriefaboulailah.enjoyVacation">
+    <img src="https://img.shields.io/badge/Google_Play-تسجيل_الإجازات-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+</p>
 
 ### Installation
 
