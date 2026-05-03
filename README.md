@@ -44,9 +44,9 @@ Vacation Registration App is an Android application designed to help users manag
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/images/home.png.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/images/add.png.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/images/history.png.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/home.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/add.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/sherifAboulaila/vacation-registration-app/main/history.png" width="200"/>
 </p>
 
 ---
